@@ -1,0 +1,20 @@
+.img-land{
+    background-image: url(imagens/land6\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.home-main-section{
+    display: flex;
+    align-items: stretch;
+    margin-top: 11rem;
+    justify-content: space-between;
+    
+}
+.home-main-section .call-to-action{
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
